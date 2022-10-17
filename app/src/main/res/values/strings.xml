@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ui_coding</string>
+
+    <string name="welcome_message">Welcome Back!</string>
+    <string name="cd_notification">알림</string>
+
+    <string name="see_all">모두보기</string>
 </resources>
